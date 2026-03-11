@@ -140,5 +140,5 @@ school-rewards/
 
 
 
-## 📄 License: MIT — [github.com/BaevVladimir/school-rewards](https://github.com/BaevVladimir/school-rewards)
+## 📄 License: GNU General Public License — [github.com/BaevVladimir/school-rewards](https://github.com/BaevVladimir/school-rewards)
 
