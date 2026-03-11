@@ -40,7 +40,7 @@ School Rewards — это веб-приложение для родителей 
 EN
 🌟 School Rewards
 
-School Rewards is a web application for parents and children that allows tracking academic performance, managing and awarding points (rubles) for grades, sending messages, and managing school tasks. The system helps motivate children and simplifies the monitoring of their academic achievements.
+School Rewards is a web application for parents and children that allows tracking academic performance, managing and awarding points ($) for grades, sending messages, and managing school tasks. The system helps motivate children and simplifies the monitoring of their academic achievements.
 
 ⚡ Key features for children:
 
