@@ -1,5 +1,6 @@
 # 🌟 School Rewards / Школьные награды
 Установка докер - смотри INSTALL.md
+
 For Docker — see INSTALL.md
 
 RU
