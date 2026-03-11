@@ -62,8 +62,6 @@ For parents (Admin panel):
 - Messages to children — send motivational or informational messages.
 - Backup and restore — data backup and database cleanup.
 
-![School Rewards](https://github.com/BaevVladimir/school-rewards/blob/main/screenshots/mobile.png?raw=true) 
-
 
 ## 🏗 Architecture / Архитектура
 
@@ -134,6 +132,13 @@ school-rewards/
 ├── Dockerfile
 └── docker-compose.yml
 ```
+---
+
+![School Rewards](https://github.com/BaevVladimir/school-rewards/blob/main/screenshots/mobile.png?raw=true) 
+
+![School Rewards EN](https://github.com/BaevVladimir/school-rewards/blob/main/screenshots/mobile_en.png?raw=true) 
+
+
 
 ## 📄 License: MIT — [github.com/BaevVladimir/school-rewards](https://github.com/BaevVladimir/school-rewards)
 
