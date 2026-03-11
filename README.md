@@ -62,8 +62,7 @@ For parents (Admin panel):
 - Messages to children — send motivational or informational messages.
 - Backup and restore — data backup and database cleanup.
 
-
-(https://github.com/baev82/school-rewards/blob/main/screenshots/En.png?raw=true)
+![School Rewards](https://github.com/baev82/school-rewards/blob/main/screenshots/En.png?raw=true) 
 
 
 ## 🏗 Architecture / Архитектура
